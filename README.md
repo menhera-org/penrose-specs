@@ -13,6 +13,7 @@ The project aims to produce a compiler to WebAssembly (WASM) and JavaScript.
 - TypeScript
 - PureScript
 - AssemblyScript
+- Coq
 
 ## Project's aims
 
