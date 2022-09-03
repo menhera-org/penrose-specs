@@ -22,6 +22,7 @@ The project aims to produce a compiler to WebAssembly (WASM) and JavaScript.
 - Logical programming meets functional programming.
 - Not necessarily Turing-complete. (Cannot write a non-terminating function.)
 - Sane basis for logics and philosophy.
+- Simply models computing process.
 
 ## Development
 
