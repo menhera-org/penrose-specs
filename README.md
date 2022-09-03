@@ -13,3 +13,11 @@ The project aims to produce a compiler to WebAssembly (WASM) and JavaScript.
 - TypeScript
 - PureScript
 - AssemblyScript
+
+## Project's aims
+
+- Static typing
+- _Everything is an expression_ philosophy
+- Logical programming meets functional programming.
+- Not necessarily Turing-complete. (Cannot write a non-terminating function.)
+- Sane basis for logics and philosophy.
